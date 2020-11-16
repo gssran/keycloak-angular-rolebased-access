@@ -7,6 +7,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## How run and execute 
+## How run and test 
 
 Please refer https://srandevzone.blogspot.com/2020/11/angular-keycloak-integration-using.html 
